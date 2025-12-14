@@ -6,7 +6,7 @@ using namespace std;
 class User {
 public:
     void ViewJadwal() {
-        cout << "\nJadwal Gym:" << endl;
+        cout << "\nJadwal Pilates:" << endl;
         cout << "Senin - Jumat : 08.00 - 21.00" << endl;
         cout << "Sabtu - Minggu: 09.00 - 18.00" << endl;
     }
@@ -129,3 +129,4 @@ int main() {
 
     return 0;
 }
+
